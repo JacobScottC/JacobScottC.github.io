@@ -1,2 +1,2 @@
-# JacobScottC.github.io
+# jacobscottc.github.io
 GitHub Pages Starter
